@@ -3,6 +3,6 @@
 
 Hello Humans,
 
-This is Shruti Garg.
-new
+This is Shruti Garg. A non-telepathic human.!
+
 
