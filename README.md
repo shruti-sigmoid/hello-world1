@@ -3,4 +3,4 @@
 
 Hello Humans,
 
-This is Shruti.
+This is Shruti. A non-telepathic human.
